@@ -1,0 +1,18 @@
+- lời chào
+
+- Bên mình cung cấp giải pháp là một hệ thống quản lý Spa và chuỗi Spa bao gồm
+	Thứ nhất là phần mềm quản lý 
+	Thứ hai là web site mang tên thương
+	Cuối cùng là app mang tên thương hiệu riêng
+- Tất cả dữ liệu của website và app đều được đồng bộ và quản lý trên phần mềm mà bên mình cung cấp
+
+Tiếp nữa...
+
+Là phần thiết bị 
+	+ Máy tính kết nối mạng để phục vụ ở quầy lễ tân
+	+ Máy in hóa đơn có thể là khổ a4, a5 hoặc khổ nhỏ k80, k57
+	+ Máy tính bảng cùng giá đỡ, bút ký để phát TVC quảng cáo và tương tác với khách hàng
+	+ Máy đọc thẻ từ, khi mình tạo thông tin cho khách hàng và lưu vào thẻ từ cứng giúp mình tương tác với khách hàng nhanh và bảo mật hơn
+	+ Máy đọc mã vạch sử dụng trong trường hợp Spa mình bán và quản lý sản phẩm trên mã vạch
+
+Những thiết bị trên thì các bạn có thể sự dụng hoặc là không dựa trên nhu cầu của bên mình, và bên mình sẽ hỗ trợ gửi link các sản phẩm cho các bạn tham khảo nếu các bạn cần
