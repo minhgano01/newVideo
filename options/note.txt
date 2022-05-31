@@ -1,0 +1,41 @@
+1. Tổng quan hệ thống, phần thiết bị (check list)
+
+2. Quản lý thông tin (mô tả) - thêm phần ngân hàng
+
+3. Quản lý cơ sở (mô tả)
+
+4. Quản lý nhân viên (mô tả)
+
+5. Danh sách sản phẩm
+
+6. Danh sách dịch vụ
+
+7. Danh sách thẻ tiền 
+
+8. Danh sách nguyên vật liệu
+
+9. Quản lý phụ phí
+
+10. Cấu hình lương
+
+11. Nhập danh sách khách hàng cũ
+
+12. Cấu hình thông báo tự động
+
+13. Ưu đãi, khuyến mại
+
+14. Gửi tin nhăn đến app, trình duyệt 
+
+15. Kho
+
+16. Kế toán - hành chính nhân sự
+
+17. Pos bán hàng (mô tả)
+
+18. Xử lý sự cố 
+
+19. Hướng dẫn sử dụng app nhân viên
+
+20. Mô tả cách khách hàng sử dụng web
+
+21. Mô tả cơ chế khách hàng sự dụng app
