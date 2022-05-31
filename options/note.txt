@@ -1,10 +1,14 @@
 1. Tổng quan hệ thống, phần thiết bị (check list)
 
+   Hướng dẫn đăng nhập
+
 2. Quản lý thông tin (mô tả) - thêm phần ngân hàng
 
 3. Quản lý cơ sở (mô tả)
 
 4. Quản lý nhân viên (mô tả)
+
+   Nhóm khách hàng
 
 5. Danh sách sản phẩm
 
