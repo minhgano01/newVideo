@@ -1,45 +1,47 @@
-1. Tổng quan hệ thống, phần thiết bị (check list)
+  Tổng quan hệ thống, phần thiết bị (check list)
 
    Hướng dẫn đăng nhập
 
-2. Quản lý thông tin (mô tả) - thêm phần ngân hàng
+   Quản lý thông tin (mô tả) - thêm phần ngân hàng
 
-3. Quản lý cơ sở (mô tả)
+   Quản lý cơ sở (mô tả)
 
-4. Quản lý nhân viên (mô tả)
+   Quản lý nhân viên (mô tả)
 
-   Nhóm khách hàng
+   Nhóm khách hàng ---------------------
 
-5. Danh sách sản phẩm
+   Danh sách sản phẩm
+   Danh sách sp excel
 
-6. Danh sách dịch vụ
+   Danh sách dịch vụ
+   Danh sách dv excel
 
-7. Danh sách thẻ tiền 
+   Danh sách thẻ tiền 
 
-8. Danh sách nguyên vật liệu
+   Danh sách nguyên vật liệu
 
-9. Quản lý phụ phí
+   Quản lý phụ phí
 
-10. Cấu hình lương
+   Cấu hình lương
 
-11. Nhập danh sách khách hàng cũ
+   Nhập danh sách khách hàng cũ
 
-12. Cấu hình thông báo tự động
+   Cấu hình thông báo tự động
 
-13. Ưu đãi, khuyến mại
+   Ưu đãi, khuyến mại
 
-14. Gửi tin nhăn đến app, trình duyệt 
+   Gửi tin nhăn đến app, trình duyệt 
 
-15. Kho
+   Kho
 
-16. Kế toán - hành chính nhân sự
+   Kế toán - hành chính nhân sự
 
-17. Pos bán hàng (mô tả)
+   Pos bán hàng (mô tả)
 
-18. Xử lý sự cố 
+   Xử lý sự cố 
 
-19. Hướng dẫn sử dụng app nhân viên
+   Hướng dẫn sử dụng app nhân viên
 
-20. Mô tả cách khách hàng sử dụng web
+   Mô tả cách khách hàng sử dụng web
 
-21. Mô tả cơ chế khách hàng sự dụng app
+   Mô tả cơ chế khách hàng sự dụng app
