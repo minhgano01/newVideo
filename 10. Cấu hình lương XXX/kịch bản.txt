@@ -1,0 +1,25 @@
+-- phần thứ nhất trong cấu hình lương là tính lương dịch vụ theo tỉ lệ
+Tức là khi một dịch vụ giảm giá, thì lương cá dịch vụ của nhân viên seo bị ảnh hưởng theo
+Còn anh hưởng như thế nào thì chúng ta có thể cấu hình ở bảng trên đây
+VD: Dịch vụ giảm giá từ 50 -70 % thì lương bạn nhân viên sẽ chỉ được nhận 70% so với bình thương
+Các bạn có thể thêm nhiều khoảng giá trị khác bằng cách bấm dấu cộng này còn không thì bấm xóa đi
+
+-- 2 là hoa hồng theo số tiền thanh toán 
+Ví dụ luôn cho mọi người dễ hiểu-- nếu một khách hàng mua một hóa đơn 100k nhưng chỉ thanh toán có 50k 
+thôi thì hoa hồng bán hàng của bạn nhân viên tư vấn cái đơn đó đc tính theo 50k hay 100k nếu tính theo
+50k thì ta tích vào đây còn không thì không tích
+
+-- Tương tự là doanh số theo số tiền thanh toán cũng vậy được tính trên 50k hay là 100k 
+nếu la 50k thì ta tick vào còn tính theo 100k thì ta bỏ tick
+
+Nói ngắn gọn 2 cái này là tính trên số tiền thanh toán hay là tổng bill đó mọi người
+
+
+-- Còn 2 tick bên này nữa, là tính hoa hồng, doanh số loại trừ thanh toán bằng thẻ tiền
+mình sẽ nói lại về thẻ tiền 
+Thẻ tiền là số tiền ảo trên hệ thống mà trước đó họ đã phải chi trả tiền mặt để mua nó 
+Tức là khi họ dùng thẻ tiền để mua hàng thì thực chất doanh thu không hề tăng 
+Đó nên có 2 lựa chọn này cho các bạn -- nên là bạn có loại trừ thanh toán bằng thẻ tiền hay không thì 
+tick vào đây còn tính thì để trống nhé 
+
+ok cảm ơn các bạn đã lắng nghe, chúc các bạn thực hành thành công !!! 
