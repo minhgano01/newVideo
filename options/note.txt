@@ -1,4 +1,4 @@
-  Tổng quan hệ thống, phần thiết bị (check list)
+   Tổng quan hệ thống, phần thiết bị (check list)
 
    Hướng dẫn đăng nhập
 
@@ -8,15 +8,15 @@
 
    Quản lý nhân viên (mô tả)
 
-   Nhóm khách hàng ---------------------
+   Nhóm khách hàng 
 
    Danh sách sản phẩm
    Danh sách sp excel
 
    Danh sách dịch vụ
-   Danh sách dv excel
+   Danh sách dv excel-------------------------
 
-   Danh sách thẻ tiền 
+   Danh sách thẻ tiền ---XONG
 
    Danh sách nguyên vật liệu
 
