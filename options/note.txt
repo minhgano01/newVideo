@@ -14,9 +14,9 @@
    Danh sách sp excel
 
    Danh sách dịch vụ
-   Danh sách dv excel-------------------------
+   Danh sách dv excel
 
-   Danh sách thẻ tiền ---XONG
+   Danh sách thẻ tiền 
 
    Danh sách nguyên vật liệu
 
