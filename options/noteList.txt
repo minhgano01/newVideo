@@ -1,20 +1,20 @@
-   Tổng quan hệ thống, phần thiết bị (check list)
+   Tổng quan hệ thống, phần thiết bị 
 
    Hướng dẫn đăng nhập
 
-   Quản lý thông tin (mô tả) - thêm phần ngân hàng
+   Quản lý thông tin  -- thêm phần ngân hàng
 
-   Quản lý cơ sở (mô tả)
+   Quản lý cơ sở 
 
-   Quản lý nhân viên (mô tả)
+   Quản lý nhân viên 
 
    Nhóm khách hàng 
 
    Danh sách sản phẩm
-   Danh sách sp excel
+   	--Danh sách sp excel
 
    Danh sách dịch vụ
-   Danh sách dv excel
+   	--Danh sách dv excel
 
    Danh sách thẻ tiền 
 
@@ -36,7 +36,22 @@
 
    Kế toán - hành chính nhân sự
 
-   Pos bán hàng (mô tả)
+   Pos bán hàng
+	--Phần 1. Pos bán hàng - thông tin và tương tác khách hàng
+
+	--Phần 2. Pos bán hàng - tạo đơn hàng cho khách
+
+	--Phần 3. Xử lý đơn hàng từ WEB-APP
+
+	--Phần 4. Quản lý đơn hàng 
+
+	--Phần 5. Quản lý  thẻ dịch vụ 
+
+	--Phần 6. Quản lý đặt lịch
+
+	--Phần 7. Quản lý ví & thẻ tiền
+
+	--Phần 8. Quản lý nhật ký CSKH 
 
    Xử lý sự cố 
 
