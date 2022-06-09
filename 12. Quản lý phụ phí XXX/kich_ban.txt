@@ -1,0 +1,5 @@
+-- phân loại phụ phí
+ -- trường hợp lương nhân viên là như nhau. VD: Phụ phí ngoài giờ 
+ -- trường hợp lương nhân viên khác nhau. VD: phụ phí di chuyển
+
+-- demo cách mua phụ phí 

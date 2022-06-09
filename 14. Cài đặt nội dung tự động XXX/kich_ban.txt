@@ -1,0 +1,11 @@
+-- mục đích của video này mình chỉ muốn giới thiệu tới các bạn cách chỉnh sửa tất cả các thông báo
+tới web, app của nhân viên và cả khách hàng
+
+-- ví dụ một số cái
+
+-- chỉ ví dụ phần mẫu
+	Các bạn có thể chỉnh sửa các cú pháp ở đây theo ý của các bạn nhưng mình nghĩ lần cúng ít 
+	trường hợp phải sửa lắm, bởi vì cú pháp ở đây bên mình xây dựng là cũng đã rất chuẩn rồi
+
+	Còn nhưng cái trong ngoặc này thì các bạn không được sửa nhé, bởi vì cái này là các biến mà
+	hệ thông sẽ fin giá trị vào đây
