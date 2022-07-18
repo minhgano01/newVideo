@@ -1,0 +1,13 @@
+Hướng dẫn khách hàng xử dụng web
+	-- Khi chưa đăng nhập
+		+ Mua hàng sản phẩm
+		+ Mua hàng dịch vụ
+		+ Đặt lịch làm dịch vụ
+	-- Khi đã đăng nhập
+		+ Khi đã đăng nhập
+		+ Mua hàng sản phẩm
+		+ Mua hàng dịch vụ
+		+ Quản lý đơn hàng
+		+ Đặt lịch làm dịch vụ
+		+ Quản lý đặt lịch
+
