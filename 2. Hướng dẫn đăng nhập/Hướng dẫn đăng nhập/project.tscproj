@@ -14,6 +14,24 @@
   "sourceBin" : [
     {
       "id" : 1,
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\options\\newEnd.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20220718T014138",
+      "sourceTracks" : [
+        {
+          "range" : [0, 40339998],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "2500000/83347",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 2,
       "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\2. Hướng dẫn đăng nhập\\cach_dang_nhap.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220531T041757",
@@ -31,7 +49,7 @@
       ]
     },
     {
-      "id" : 2,
+      "id" : 3,
       "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\2. Hướng dẫn đăng nhập\\quen_mat_khau.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220531T041913",
@@ -49,7 +67,7 @@
       ]
     },
     {
-      "id" : 3,
+      "id" : 4,
       "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\2. Hướng dẫn đăng nhập\\start.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220531T041642",
@@ -67,7 +85,7 @@
       ]
     },
     {
-      "id" : 4,
+      "id" : 5,
       "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\2. Hướng dẫn đăng nhập\\VD_cach_dang_nhap.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220531T042535",
@@ -95,7 +113,7 @@
       ]
     },
     {
-      "id" : 5,
+      "id" : 6,
       "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\2. Hướng dẫn đăng nhập\\VD_quen_mat_khau.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220511T040803",
@@ -118,24 +136,6 @@
           "sampleRate" : 44100,
           "bitDepth" : 16,
           "numChannels" : 2,
-          "metaData" : ""
-        }
-      ]
-    },
-    {
-      "id" : 6,
-      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\options\\end.mp4",
-      "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20220531T030312",
-      "sourceTracks" : [
-        {
-          "range" : [0, 40339998],
-          "type" : 0,
-          "editRate" : 10000000,
-          "trackRect" : [0, 0, 1920, 1080],
-          "sampleRate" : "2500000/83347",
-          "bitDepth" : 24,
-          "numChannels" : 0,
           "metaData" : ""
         }
       ]
@@ -175,7 +175,7 @@
                   {
                     "id" : 9,
                     "_type" : "VMFile",
-                    "src" : 3,
+                    "src" : 4,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "start"
@@ -199,7 +199,7 @@
                   {
                     "id" : 10,
                     "_type" : "VMFile",
-                    "src" : 1,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "cach_dang_nhap"
@@ -227,7 +227,7 @@
                         {
                           "id" : 12,
                           "_type" : "VMFile",
-                          "src" : 4,
+                          "src" : 5,
                           "trackNumber" : 0,
                           "attributes" : {
                             "ident" : "VD_cach_dang_nhap"
@@ -248,7 +248,7 @@
                         {
                           "id" : 13,
                           "_type" : "AMFile",
-                          "src" : 4,
+                          "src" : 5,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
@@ -284,7 +284,7 @@
                   {
                     "id" : 14,
                     "_type" : "VMFile",
-                    "src" : 2,
+                    "src" : 3,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "quen_mat_khau"
@@ -312,7 +312,7 @@
                         {
                           "id" : 16,
                           "_type" : "VMFile",
-                          "src" : 5,
+                          "src" : 6,
                           "trackNumber" : 0,
                           "attributes" : {
                             "ident" : "VD_quen_mat_khau"
@@ -333,7 +333,7 @@
                         {
                           "id" : 17,
                           "_type" : "AMFile",
-                          "src" : 5,
+                          "src" : 6,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
@@ -369,10 +369,10 @@
                   {
                     "id" : 18,
                     "_type" : "VMFile",
-                    "src" : 6,
+                    "src" : 1,
                     "trackNumber" : 0,
                     "attributes" : {
-                      "ident" : "end"
+                      "ident" : "newEnd"
                     },
                     "effects" : [
 
@@ -424,7 +424,7 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.14,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
@@ -444,7 +444,7 @@
                           },
                           {
                             "time" : 75,
-                            "value" : 0.307692307692306,
+                            "value" : 1.0,
                             "duration" : 0
                           }
                         ]
@@ -475,13 +475,10 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.01,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.131868131868131
-                    },
                     "effects" : [
 
                     ],
@@ -507,7 +504,7 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.15,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
@@ -532,7 +529,7 @@
                           },
                           {
                             "time" : 3175,
-                            "value" : 0.32967032967033,
+                            "value" : 1.0,
                             "duration" : 0
                           }
                         ]
@@ -563,13 +560,10 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.01,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.10989010989011
-                    },
                     "effects" : [
 
                     ],
@@ -595,13 +589,10 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.01,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0659340659340653
-                    },
                     "effects" : [
 
                     ],
@@ -627,7 +618,7 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.15,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
@@ -637,22 +628,22 @@
                         "keyframes" : [
                           {
                             "time" : 0,
-                            "value" : 0.0659340659340653,
+                            "value" : 1.0,
                             "duration" : 0
                           },
                           {
                             "time" : 2656,
-                            "value" : 0.369230769230769,
+                            "value" : 1.0,
                             "duration" : 0
                           },
                           {
                             "time" : 2716,
-                            "value" : 0.303296703296704,
+                            "value" : 0.0,
                             "duration" : 0
                           },
                           {
                             "time" : 2717,
-                            "value" : 0.0659340659340653,
+                            "value" : 1.0,
                             "duration" : 0
                           }
                         ]
@@ -731,13 +722,14 @@
     "backgroundColor" : [ 0, 0, 0, 255]
   },
   "metadata" : {
-    "AutoSaveFile" : "C:\\Users\\Cong_minh\\AppData\\Local\\TechSmith\\Camtasia Studio\\9.0\\Auto-Saves\\Untitled Project13e68fe2.autosave.tscproj",
+    "AutoSaveFile" : "",
     "CanvasZoom" : 47,
-    "Date" : "2022-05-31 11:26:33 AM",
+    "Date" : "2022-07-27 11:20:25 AM",
     "IsAutoSave" : "0",
     "Language" : "ENU",
     "ProfileName" : "MP4 only (up to 1080p)",
     "ProjectDimensionsChanged" : "1",
+    "Title" : "project",
     "audioNarrationNotes" : "",
     "calloutStyle" : "Basic",
     "canvasDetached" : "False",

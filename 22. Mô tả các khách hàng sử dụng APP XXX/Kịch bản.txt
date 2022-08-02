@@ -1,0 +1,5 @@
+Kịch bản khách hàng sử dụng web/app
+-- Cách đăng nhập 
+-- Lấy lại mật khẩu
+-- Khách hàng mua hàng 
+-- Khách hàng đặt lịch 

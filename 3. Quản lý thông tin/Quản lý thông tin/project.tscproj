@@ -14,9 +14,9 @@
   "sourceBin" : [
     {
       "id" : 1,
-      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\options\\end.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\options\\newEnd.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20220531T030312",
+      "lastMod" : "20220718T014138",
       "sourceTracks" : [
         {
           "range" : [0, 40339998],
@@ -50,7 +50,7 @@
     },
     {
       "id" : 3,
-      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin XXX\\cai_dat_may_in.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin\\cai_dat_may_in.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220531T040413",
       "sourceTracks" : [
@@ -68,7 +68,7 @@
     },
     {
       "id" : 4,
-      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin XXX\\start.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin\\start.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220531T040110",
       "sourceTracks" : [
@@ -86,7 +86,7 @@
     },
     {
       "id" : 5,
-      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin XXX\\thong_tin_co_ban.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin\\thong_tin_co_ban.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220531T040341",
       "sourceTracks" : [
@@ -104,7 +104,7 @@
     },
     {
       "id" : 6,
-      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin XXX\\tk_ngan_hang.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin\\tk_ngan_hang.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220531T040452",
       "sourceTracks" : [
@@ -122,7 +122,7 @@
     },
     {
       "id" : 7,
-      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin XXX\\VD_cai_dat_may_in.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin\\VD_cai_dat_may_in.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220601T014355",
       "sourceTracks" : [
@@ -150,7 +150,7 @@
     },
     {
       "id" : 8,
-      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin XXX\\VD_thong_tin_co_ban.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin\\VD_thong_tin_co_ban.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220601T014355",
       "sourceTracks" : [
@@ -178,7 +178,7 @@
     },
     {
       "id" : 9,
-      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin XXX\\VD_tk_ngan_hang.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\3. Quản lý thông tin\\VD_tk_ngan_hang.mp4",
       "rect" : [0, 0, 1920, 1080],
       "lastMod" : "20220601T014355",
       "sourceTracks" : [
@@ -304,9 +304,6 @@
                             "mixToMono" : false
                           },
                             "channelNumber" : "0,1",
-                          "parameters" : {
-                            "volume" : 5.0
-                          },
                           "effects" : [
 
                           ],
@@ -392,9 +389,6 @@
                             "mixToMono" : false
                           },
                             "channelNumber" : "0,1",
-                          "parameters" : {
-                            "volume" : 5.0
-                          },
                           "effects" : [
 
                           ],
@@ -480,9 +474,6 @@
                             "mixToMono" : false
                           },
                             "channelNumber" : "0,1",
-                          "parameters" : {
-                            "volume" : 5.0
-                          },
                           "effects" : [
 
                           ],
@@ -512,7 +503,7 @@
                     "src" : 1,
                     "trackNumber" : 0,
                     "attributes" : {
-                      "ident" : "end"
+                      "ident" : "newEnd"
                     },
                     "effects" : [
 
@@ -573,7 +564,7 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.15,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
@@ -593,7 +584,7 @@
                           },
                           {
                             "time" : 75,
-                            "value" : 0.32967032967033,
+                            "value" : 1.0,
                             "duration" : 0
                           }
                         ]
@@ -624,13 +615,10 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.01,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0659340659340653
-                    },
                     "effects" : [
 
                     ],
@@ -656,7 +644,7 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.15,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
@@ -681,7 +669,7 @@
                           },
                           {
                             "time" : 2625,
-                            "value" : 0.32967032967033,
+                            "value" : 1.0,
                             "duration" : 0
                           }
                         ]
@@ -712,13 +700,10 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.01,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.10989010989011
-                    },
                     "effects" : [
 
                     ],
@@ -744,13 +729,10 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.01,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0659340659340653
-                    },
                     "effects" : [
 
                     ],
@@ -776,7 +758,7 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.15,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
@@ -801,7 +783,7 @@
                           },
                           {
                             "time" : 1390,
-                            "value" : 0.285714285714285,
+                            "value" : 1.0,
                             "duration" : 0
                           }
                         ]
@@ -832,13 +814,10 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.01,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0659340659340653
-                    },
                     "effects" : [
 
                     ],
@@ -864,13 +843,10 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.01,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0659340659340653
-                    },
                     "effects" : [
 
                     ],
@@ -896,7 +872,7 @@
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.15,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
@@ -906,12 +882,12 @@
                         "keyframes" : [
                           {
                             "time" : 0,
-                            "value" : 0.35164835164835,
+                            "value" : 1.0,
                             "duration" : 0
                           },
                           {
                             "time" : 3433,
-                            "value" : 0.35164835164835,
+                            "value" : 1.0,
                             "duration" : 0
                           },
                           {
@@ -1000,9 +976,9 @@
     "backgroundColor" : [ 0, 0, 0, 255]
   },
   "metadata" : {
-    "AutoSaveFile" : "C:\\Users\\Cong_minh\\AppData\\Local\\TechSmith\\Camtasia Studio\\9.0\\Auto-Saves\\Untitled Project42df59b.autosave.tscproj",
+    "AutoSaveFile" : "C:\\Users\\Cong_minh\\AppData\\Local\\TechSmith\\Camtasia Studio\\9.0\\Auto-Saves\\Untitled Project3cfbd2d4.autosave.tscproj",
     "CanvasZoom" : 47,
-    "Date" : "2022-06-01 08:45:13 AM",
+    "Date" : "2022-07-27 11:32:25 AM",
     "IsAutoSave" : "0",
     "Language" : "ENU",
     "ProfileName" : "MP4 only (up to 1080p)",

@@ -1,6 +1,0 @@
---show sơ đồ lên rồi đi vào từng phần
-
---giới thiệu
-	-- phần này chúng ta sẽ nhập danh sách cá khách hàng cũ của chúng ta lên hệ thống để quản lý
-	-- phần 2 này ta sẽ nhập những dịch vụ của khách hàng đã mua lên, để theo dõi và tiếp tục tính
-	lương những buổi chưa làm cho các bạn nhân viên

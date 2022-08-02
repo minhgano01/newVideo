@@ -1,0 +1,457 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "0.5",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia Studio",
+    "platform" : "Windows",
+    "version" : "9.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\18. Pos quản lý\\18. Pos quản lý\\7. Cách cài đặt phác đồ dịch vụ\\start.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20220729T035957",
+      "sourceTracks" : [
+        {
+          "range" : [0, 25339999],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333421",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\18. Pos quản lý\\18. Pos quản lý\\7. Cách cài đặt phác đồ dịch vụ\\vd1.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20220724T150457",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1099929221],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 1099929221],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\options\\newEnd.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20220718T014138",
+      "sourceTracks" : [
+        {
+          "range" : [0, 40339998],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "2500000/83347",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\options\\SpringInMyStep-SlientPartner-4126819.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20220531T030312",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1191813750],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    }
+  ],
+  "timeline" : {
+    "id" : 5,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 116.5,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 6,
+                    "_type" : "VMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "start"
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 75,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 75,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 7,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 8,
+                          "_type" : "VMFile",
+                          "src" : 2,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "vd1"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 75,
+                          "duration" : 3300,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 3300,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 9,
+                          "_type" : "AMFile",
+                          "src" : 2,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "sampleRate" : 44100,
+                            "bitDepth" : 16,
+                            "gain" : 1.5,
+                            "mixToMono" : false
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+                              {
+                                "effectName" : "NoiseReduction",
+                                "category" : "categoryAudioEffects",
+                                "parameters" : {
+                                  "denoiserAmount" : 15.0,
+                                  "denoiserThreshold" : 0.0,
+                                  "noiseProfile" : "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\r\nVvcEPFqzBjxLXwU87usGPI3mBTyTxAQ8608FPOfKAzwD5AQ8cycEPHlYBDzFsgQ8UHsFPNYiBTyt\r\nugQ8CWkDPP0aBDxf3wQ8tHgDPDMpAzxVdwQ8b/0EPIogAzz+bwI81DYEPJr9AjynBAI8NUkDPOGt\r\nAjxQyAI8aJIBPHCkATz1/wA8ap8CPBNgADyNpgE8tEkDPJqqADyDCgE8pvQBPB8sAzxZswA8DYMA\r\nPFgeATyuq/87NXX8O9Rn/zuVtgA8MUv+O5QdATy7ggA8arQAPHMK/TvkoQA8Vm7/O9Hb/TvAhP47\r\ncC7+Oxu8/jv0jf872LH+O59w/TuSsf072iL+O9cc+zsCq/w7vc77O0JE+zsJtPs7APT+O1m2/zvx\r\nwvw7MRv+O0hg/DsSyv07AQX7O1U//TuAN/47Y0L7O16c+zuFs/s76/n5O3mC+jvLBPg7Gl/7O8Un\r\n/Dv0Rfk7Jwb6Ozq8+zuv/vo7sGX5O7x19zuvivk73Pv4O0E5+Tsm7/k7RVfzOz2S+Ttwd/c7ahn1\r\nO5Ig9ztHyfo7j434O6F89ju80vc7y/L3O/AQ+TtwovM7WJT0Owa99DuIr/M7DOj0O48w9ztNf/c7\r\ntWv2O3Uq9jtxKvU7DtLzO0kF9jtxkvg733j1O3Ig9jvKSfY7FjnzO/uG9DvGu/Q7DU7zOzAb8Ds5\r\n9vI7svX1O+2v8ztJFPY7SLn1O1UT8ztJDvU75ffxO46i8Tuj0PI7RYb0O3tW9DtOy/I7zlr0Owpz\r\n7zsU3PQ7UirxO7jS8DvIQPM7l+jxO2IB8jv2jfA7SILyO0fm8DsOKPE7WjHxO2Ny8TvLsO87+jbw\r\nO0VF8Tt81PI7ypzzO8Eb8DtQIPM7IY/wO/Zp8Tsy7vA7dffwO2bi8ztiVvA7jITvO6zH7zuTQ/A7\r\nKNPvO1jP8Tv7efE7yQztO0nk7zt4I+87piruO5dh8juehe87hgvyO4gI7ztmU+87WGTsO6tb7zvC\r\n0+878QDxO/Du8Du08u47hOXuOxPQ7jshM+47FsTvO7EH7zsf0Os75zHxO7/c7zusGO87IN3vO5QH\r\n8DvO/e074yDrO7ib7TvQ2uw7p43vOyz37zvyWu07JePvOzFj7zuHkvA7iKPrO5S27DsgO+07R3Xu\r\nO6jz6zuYJ+47Pu3uOzF87zudgvA7SJ3tO9yf7zvQ2u87HcjvO0QW7zvCkO47IJPuOw==",
+                                  "noiseTrainingType" : "default"
+                                },
+                                "metadata" : {
+                                  "effectIndex" : "0"
+                                }
+                              }
+                          ],
+                          "start" : 75,
+                          "duration" : 3300,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 3300,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 75,
+                    "duration" : 3300,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 3300,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    }
+                  },
+                  {
+                    "id" : 10,
+                    "_type" : "VMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "newEnd"
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 3375,
+                    "duration" : 120,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 120,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "SlideLeft",
+                    "duration" : 15,
+                    "trivial" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 6,
+                    "rightMedia" : 7
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 11,
+                    "_type" : "AMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "SpringInMyStep-SlientPartner-4126819",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 0,
+                      "gain" : 0.15,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "parameters" : {
+                      "volume" : {
+                        "type" : "double",
+                        "keyframes" : [
+                          {
+                            "time" : -1,
+                            "value" : 1.0,
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 0,
+                            "value" : 0.0,
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 37,
+                            "value" : 1.0,
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 75,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 75,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 12,
+                    "_type" : "AMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "SpringInMyStep-SlientPartner-4126819",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 0,
+                      "gain" : 0.02,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 75,
+                    "duration" : 3300,
+                    "mediaStart" : 75,
+                    "mediaDuration" : 3300,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 13,
+                    "_type" : "AMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "SpringInMyStep-SlientPartner-4126819",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 0,
+                      "gain" : 0.15,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "parameters" : {
+                      "volume" : {
+                        "type" : "double",
+                        "keyframes" : [
+                          {
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 3435,
+                            "value" : 1.0,
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 3495,
+                            "value" : 0.0,
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 3496,
+                            "value" : 1.0,
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 3375,
+                    "duration" : 120,
+                    "mediaStart" : 3375,
+                    "mediaDuration" : 120,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "",
+    "CanvasZoom" : 47,
+    "Date" : "2022-07-29 10:59:05 AM",
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "MP4 only (up to 1080p)",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "Project",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  }
+}

@@ -14,16 +14,16 @@
   "sourceBin" : [
     {
       "id" : 1,
-      "src" : "C:\\Users\\thoCode\\Desktop\\newVideo\\16. Kho\\ql_chuyen_doi.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\options\\newEnd.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20220610T050434",
+      "lastMod" : "20220718T014138",
       "sourceTracks" : [
         {
-          "range" : [0, 25339999],
+          "range" : [0, 40339998],
           "type" : 0,
           "editRate" : 10000000,
           "trackRect" : [0, 0, 1920, 1080],
-          "sampleRate" : "10000000/333421",
+          "sampleRate" : "2500000/83347",
           "bitDepth" : 24,
           "numChannels" : 0,
           "metaData" : ""
@@ -32,27 +32,27 @@
     },
     {
       "id" : 2,
-      "src" : "C:\\Users\\thoCode\\Desktop\\newVideo\\16. Kho\\ql_nhap_xuat.mp4",
-      "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20220610T050434",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\options\\SpringInMyStep-SlientPartner-4126819.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20220531T030312",
       "sourceTracks" : [
         {
-          "range" : [0, 25339999],
-          "type" : 0,
+          "range" : [0, 1191813750],
+          "type" : 2,
           "editRate" : 10000000,
-          "trackRect" : [0, 0, 1920, 1080],
-          "sampleRate" : "10000000/333421",
-          "bitDepth" : 24,
-          "numChannels" : 0,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 2,
           "metaData" : ""
         }
       ]
     },
     {
       "id" : 3,
-      "src" : "C:\\Users\\thoCode\\Desktop\\newVideo\\16. Kho\\ql_ton_kho.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\16. Kho\\ql_chuyen_doi.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20220610T050434",
+      "lastMod" : "20220615T015648",
       "sourceTracks" : [
         {
           "range" : [0, 25339999],
@@ -68,9 +68,9 @@
     },
     {
       "id" : 4,
-      "src" : "C:\\Users\\thoCode\\Desktop\\newVideo\\16. Kho\\start.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\16. Kho\\ql_nhap_xuat.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20220610T050434",
+      "lastMod" : "20220615T015648",
       "sourceTracks" : [
         {
           "range" : [0, 25339999],
@@ -86,68 +86,48 @@
     },
     {
       "id" : 5,
-      "src" : "C:\\Users\\thoCode\\Desktop\\newVideo\\16. Kho\\VD_chuyen_doi.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\16. Kho\\ql_ton_kho.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20220612T085701",
+      "lastMod" : "20220615T015648",
       "sourceTracks" : [
         {
-          "range" : [0, 1317964664],
+          "range" : [0, 25339999],
           "type" : 0,
           "editRate" : 10000000,
           "trackRect" : [0, 0, 1920, 1080],
-          "sampleRate" : "10000000/333333",
+          "sampleRate" : "10000000/333421",
           "bitDepth" : 24,
           "numChannels" : 0,
-          "metaData" : ""
-        },
-        {
-          "range" : [0, 1317964664],
-          "type" : 2,
-          "editRate" : 10000000,
-          "trackRect" : [0, 0, 0, 0],
-          "sampleRate" : 44100,
-          "bitDepth" : 16,
-          "numChannels" : 2,
           "metaData" : ""
         }
       ]
     },
     {
       "id" : 6,
-      "src" : "C:\\Users\\thoCode\\Desktop\\newVideo\\16. Kho\\VD_nhap_xuat.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\16. Kho\\start.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20220612T085011",
+      "lastMod" : "20220615T015648",
       "sourceTracks" : [
         {
-          "range" : [0, 5575111110],
+          "range" : [0, 25339999],
           "type" : 0,
           "editRate" : 10000000,
           "trackRect" : [0, 0, 1920, 1080],
-          "sampleRate" : "10000000/333333",
+          "sampleRate" : "10000000/333421",
           "bitDepth" : 24,
           "numChannels" : 0,
-          "metaData" : ""
-        },
-        {
-          "range" : [0, 5575111110],
-          "type" : 2,
-          "editRate" : 10000000,
-          "trackRect" : [0, 0, 0, 0],
-          "sampleRate" : 44100,
-          "bitDepth" : 16,
-          "numChannels" : 2,
           "metaData" : ""
         }
       ]
     },
     {
       "id" : 7,
-      "src" : "C:\\Users\\thoCode\\Desktop\\newVideo\\16. Kho\\VD_ton_kho.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\16. Kho\\VD_chuyen_doi.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20220612T083020",
+      "lastMod" : "20220615T015648",
       "sourceTracks" : [
         {
-          "range" : [0, 1500241221],
+          "range" : [0, 1317964664],
           "type" : 0,
           "editRate" : 10000000,
           "trackRect" : [0, 0, 1920, 1080],
@@ -157,7 +137,7 @@
           "metaData" : ""
         },
         {
-          "range" : [0, 1500241221],
+          "range" : [0, 1317964664],
           "type" : 2,
           "editRate" : 10000000,
           "trackRect" : [0, 0, 0, 0],
@@ -170,17 +150,27 @@
     },
     {
       "id" : 8,
-      "src" : "C:\\Users\\thoCode\\Desktop\\newVideo\\options\\SpringInMyStep-SlientPartner-4126819.mp3",
-      "rect" : [0, 0, 0, 0],
-      "lastMod" : "20220610T050437",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\16. Kho\\VD_nhap_xuat.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20220615T015648",
       "sourceTracks" : [
         {
-          "range" : [0, 1191813750],
+          "range" : [0, 5575111110],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 5575111110],
           "type" : 2,
           "editRate" : 10000000,
           "trackRect" : [0, 0, 0, 0],
           "sampleRate" : 44100,
-          "bitDepth" : 0,
+          "bitDepth" : 16,
           "numChannels" : 2,
           "metaData" : ""
         }
@@ -188,18 +178,28 @@
     },
     {
       "id" : 9,
-      "src" : "C:\\Users\\thoCode\\Desktop\\newVideo\\options\\end.mp4",
+      "src" : "C:\\Users\\Cong_minh\\Desktop\\newVideo\\newVideo\\16. Kho\\VD_ton_kho.mp4",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20220610T050437",
+      "lastMod" : "20220615T015648",
       "sourceTracks" : [
         {
-          "range" : [0, 40339998],
+          "range" : [0, 1500241221],
           "type" : 0,
           "editRate" : 10000000,
           "trackRect" : [0, 0, 1920, 1080],
-          "sampleRate" : "2500000/83347",
+          "sampleRate" : "10000000/333333",
           "bitDepth" : 24,
           "numChannels" : 0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 1500241221],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
           "metaData" : ""
         }
       ]
@@ -221,7 +221,7 @@
                   {
                     "id" : 11,
                     "_type" : "VMFile",
-                    "src" : 4,
+                    "src" : 6,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "start"
@@ -245,7 +245,7 @@
                   {
                     "id" : 12,
                     "_type" : "VMFile",
-                    "src" : 3,
+                    "src" : 5,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "ql_ton_kho"
@@ -273,7 +273,7 @@
                         {
                           "id" : 14,
                           "_type" : "VMFile",
-                          "src" : 7,
+                          "src" : 9,
                           "trackNumber" : 0,
                           "attributes" : {
                             "ident" : "VD_ton_kho"
@@ -294,13 +294,13 @@
                         {
                           "id" : 15,
                           "_type" : "AMFile",
-                          "src" : 7,
+                          "src" : 9,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
                             "sampleRate" : 44100,
                             "bitDepth" : 16,
-                            "gain" : 1.0,
+                            "gain" : 1.5,
                             "mixToMono" : false
                           },
                             "channelNumber" : "0,1",
@@ -330,7 +330,7 @@
                   {
                     "id" : 16,
                     "_type" : "VMFile",
-                    "src" : 2,
+                    "src" : 4,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "ql_nhap_xuat"
@@ -358,7 +358,7 @@
                         {
                           "id" : 18,
                           "_type" : "VMFile",
-                          "src" : 6,
+                          "src" : 8,
                           "trackNumber" : 0,
                           "attributes" : {
                             "ident" : "VD_nhap_xuat"
@@ -379,13 +379,13 @@
                         {
                           "id" : 19,
                           "_type" : "AMFile",
-                          "src" : 6,
+                          "src" : 8,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
                             "sampleRate" : 44100,
                             "bitDepth" : 16,
-                            "gain" : 1.0,
+                            "gain" : 1.5,
                             "mixToMono" : false
                           },
                             "channelNumber" : "0,1",
@@ -415,7 +415,7 @@
                   {
                     "id" : 20,
                     "_type" : "VMFile",
-                    "src" : 1,
+                    "src" : 3,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "ql_chuyen_doi"
@@ -443,7 +443,7 @@
                         {
                           "id" : 22,
                           "_type" : "VMFile",
-                          "src" : 5,
+                          "src" : 7,
                           "trackNumber" : 0,
                           "attributes" : {
                             "ident" : "VD_chuyen_doi"
@@ -464,13 +464,13 @@
                         {
                           "id" : 23,
                           "_type" : "AMFile",
-                          "src" : 5,
+                          "src" : 7,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
                             "sampleRate" : 44100,
                             "bitDepth" : 16,
-                            "gain" : 1.0,
+                            "gain" : 1.5,
                             "mixToMono" : false
                           },
                             "channelNumber" : "0,1",
@@ -500,10 +500,10 @@
                   {
                     "id" : 24,
                     "_type" : "VMFile",
-                    "src" : 9,
+                    "src" : 1,
                     "trackNumber" : 0,
                     "attributes" : {
-                      "ident" : "end"
+                      "ident" : "newEnd"
                     },
                     "effects" : [
 
@@ -558,13 +558,13 @@
                   {
                     "id" : 25,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.15,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
@@ -584,7 +584,7 @@
                           },
                           {
                             "time" : 75,
-                            "value" : 0.274725274725275,
+                            "value" : 1.0,
                             "duration" : 0
                           }
                         ]
@@ -609,19 +609,16 @@
                   {
                     "id" : 26,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.02,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.10989010989011
-                    },
                     "effects" : [
 
                     ],
@@ -641,19 +638,16 @@
                   {
                     "id" : 27,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.02,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0824175824175824
-                    },
                     "effects" : [
 
                     ],
@@ -673,13 +667,13 @@
                   {
                     "id" : 28,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.15,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
@@ -704,7 +698,7 @@
                           },
                           {
                             "time" : 1112,
-                            "value" : 0.302197802197802,
+                            "value" : 1.0,
                             "duration" : 0
                           }
                         ]
@@ -729,19 +723,16 @@
                   {
                     "id" : 29,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.02,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0549450549450549
-                    },
                     "effects" : [
 
                     ],
@@ -761,19 +752,16 @@
                   {
                     "id" : 30,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.02,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0274725274725275
-                    },
                     "effects" : [
 
                     ],
@@ -793,19 +781,16 @@
                   {
                     "id" : 31,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.02,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0549450549450549
-                    },
                     "effects" : [
 
                     ],
@@ -825,19 +810,16 @@
                   {
                     "id" : 32,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.02,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0549450549450549
-                    },
                     "effects" : [
 
                     ],
@@ -857,19 +839,16 @@
                   {
                     "id" : 33,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.02,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0549450549450549
-                    },
                     "effects" : [
 
                     ],
@@ -889,13 +868,13 @@
                   {
                     "id" : 34,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.15,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
@@ -915,7 +894,7 @@
                           },
                           {
                             "time" : 37,
-                            "value" : 0.32967032967033,
+                            "value" : 1.0,
                             "duration" : 0
                           }
                         ]
@@ -940,19 +919,16 @@
                   {
                     "id" : 35,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.02,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0824175824175824
-                    },
                     "effects" : [
 
                     ],
@@ -972,19 +948,16 @@
                   {
                     "id" : 36,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.02,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
-                    "parameters" : {
-                      "volume" : 0.0824175824175824
-                    },
                     "effects" : [
 
                     ],
@@ -1004,13 +977,13 @@
                   {
                     "id" : 37,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "SpringInMyStep-SlientPartner-4126819",
                       "sampleRate" : 44100,
                       "bitDepth" : 0,
-                      "gain" : 1.0,
+                      "gain" : 0.15,
                       "mixToMono" : false
                     },
                       "channelNumber" : "0,1",
@@ -1020,12 +993,12 @@
                         "keyframes" : [
                           {
                             "time" : 0,
-                            "value" : 0.302197802197802,
+                            "value" : 1.0,
                             "duration" : 0
                           },
                           {
                             "time" : 514,
-                            "value" : 0.302197802197802,
+                            "value" : 1.0,
                             "duration" : 0
                           },
                           {
@@ -1063,16 +1036,6 @@
                 "trackIndex" : 2,
                 "medias" : [
                 ]
-              },
-              {
-                "trackIndex" : 3,
-                "medias" : [
-                ]
-              },
-              {
-                "trackIndex" : 4,
-                "medias" : [
-                ]
               }
             ]
           }
@@ -1080,24 +1043,6 @@
       ]
     },
     "trackAttributes" : [
-      {
-        "ident" : "",
-        "audioMuted" : false,
-        "videoHidden" : false,
-        "metadata" : {
-          "IsLocked" : "False",
-          "WinTrackHeight" : "56"
-        }
-      },
-      {
-        "ident" : "",
-        "audioMuted" : false,
-        "videoHidden" : false,
-        "metadata" : {
-          "IsLocked" : "False",
-          "WinTrackHeight" : "56"
-        }
-      },
       {
         "ident" : "",
         "audioMuted" : false,
@@ -1142,13 +1087,14 @@
     "backgroundColor" : [ 0, 0, 0, 255]
   },
   "metadata" : {
-    "AutoSaveFile" : "C:\\Users\\thoCode\\AppData\\Local\\TechSmith\\Camtasia Studio\\9.0\\Auto-Saves\\Untitled Projectb0f360.autosave.tscproj",
-    "CanvasZoom" : 49,
-    "Date" : "2022-06-12 03:21:02 PM",
+    "AutoSaveFile" : "",
+    "CanvasZoom" : 47,
+    "Date" : "2022-07-29 03:00:45 PM",
     "IsAutoSave" : "0",
     "Language" : "ENU",
     "ProfileName" : "MP4 only (up to 1080p)",
     "ProjectDimensionsChanged" : "1",
+    "Title" : "Project",
     "audioNarrationNotes" : "",
     "calloutStyle" : "Basic",
     "canvasDetached" : "False",
